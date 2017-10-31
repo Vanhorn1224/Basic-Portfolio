@@ -65,7 +65,7 @@
 	background-color: white;
 	height: 300px;
 	width: 500px;
-	left: 30px;
+	left: 100px;
 	margin: 0;
 	bottom: 110px;
 	padding: 30px;
@@ -84,14 +84,18 @@ h2{
 
 }
 
+.footer p{
+	text-align: center;
+}
+
 /* connect with me link box */
 .infolink{
 	position: absolute;
-	background-color: blue;
-	height: 150px;
-	width: 350px;
-	right: 30px;
-	bottom: 275px;
+	background-color: white;
+	height: 100px;
+	width: 250px;
+	right: 100px;
+	bottom: 307px;
 	padding: 30px;
 
 }
