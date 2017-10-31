@@ -1,0 +1,97 @@
+.header{
+	position: relative;
+	top: 0;
+	padding: 50px; 
+	background-color: grey;
+	border-bottom-style: solid;
+	border-bottom-color: #20b2aa;
+}
+
+.name{
+	position: absolute;
+	left: 30px;
+	margin: 0px;
+	bottom: 0px;
+	top: 0px;
+	background-color: grey;
+	padding: 30px;
+	font-size: 50px;
+	color: #20b2aa;
+}
+
+.aboutlink{
+	position: absolute;
+	left: 730px;
+	margin: 0px;
+	bottom: 0px;
+	padding: 20px;
+	color: #20b2aa;
+	text-decoration: none;
+
+}
+
+.portfoliolink{
+	position: absolute;
+	left: 830px;
+	margin: 0px;
+	bottom: 0px;
+	padding: 20px;
+	color: #20b2aa;
+	text-decoration: none;
+
+}
+
+.contactlink{
+	position: absolute;
+	left: 930px;
+	margin: 0px;
+	bottom: 0px;
+	padding: 20px;
+	color: #20b2aa;
+	text-decoration: none;
+
+}
+
+.body{
+	position: relative;
+	background-color: #778899;
+	height: 500px;
+	border-bottom-style: solid;
+	border-bottom-color: #20b2aa;
+}
+
+.aboutbox{
+	position: absolute;
+	background-color: white;
+	height: 300px;
+	width: 500px;
+	left: 30px;
+	margin: 0;
+	bottom: 110px;
+	padding: 30px;
+}
+h2{
+	color: #20b2aa;
+	border-bottom-style: solid;
+	border-bottom-color: #20b2aa; 
+}
+
+.footer{
+	position: relative;
+	top: 0;
+	padding: 50px;
+	background-color: grey;
+
+}
+
+/* connect with me link box */
+.infolink{
+	position: absolute;
+	background-color: blue;
+	height: 150px;
+	width: 350px;
+	right: 30px;
+	bottom: 110px;
+	padding: 30px;
+
+}
