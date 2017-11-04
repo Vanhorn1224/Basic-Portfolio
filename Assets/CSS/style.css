@@ -1,3 +1,4 @@
+/* first page-index */
 .header{
 	position: relative;
 	top: 0;
@@ -63,19 +64,51 @@
 .aboutbox{
 	position: absolute;
 	background-color: white;
-	height: 300px;
+	height: 350px;
 	width: 500px;
 	left: 100px;
 	margin: 0;
-	bottom: 110px;
+	bottom: 55px;
 	padding: 30px;
 }
+
+.aboutcontact{
+
+	position: absolute;
+	background-color: white;
+	height: 350px;
+	width: 500px;
+	left: 100px;
+	margin: 0;
+	bottom: 55px;
+	padding: 30px;
+}
+
 h2{
 	color: #20b2aa;
 	border-bottom-style: solid;
 	border-bottom-color: #20b2aa; 
 }
 
+/* connect with me link box */
+.infobox{
+	position: absolute;
+	background-color: white;
+	height: 150px;
+	width: 250px;
+	right: 100px;
+	bottom: 250px;
+	padding: 30px;
+
+}
+
+.infobox i{
+	width: 75px;
+	height: 75px;
+	text-decoration: none;
+}
+
+/* bottom section of page */
 .footer{
 	position: relative;
 	top: 0;
@@ -86,16 +119,4 @@ h2{
 
 .footer p{
 	text-align: center;
-}
-
-/* connect with me link box */
-.infobox{
-	position: absolute;
-	background-color: white;
-	height: 100px;
-	width: 250px;
-	right: 100px;
-	bottom: 307px;
-	padding: 30px;
-
 }
